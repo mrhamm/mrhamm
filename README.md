@@ -10,9 +10,24 @@ growing role in the financial and political worlds should not be ignored.  As a 
 solving - the new and rapidly growing blockchain ecosystem has the potential to solve important problems 
 that affect our every day lives.  
 
+This github profile serves as a documentation of my pubilcly available scripts.  My primary languages
+are Python and Solidity, though I am quite familiar with Javascript, Matlab, R, SQL and html, and 
+general Object Oriented Programming.   
 
-This github profile serves as a documentation of my pubilcly available scripts.  My primary experience
-is in Python, though I am quite familiar with Matlab, R, SQL and html.  
+Blockchain Skills/Libraries:  web3.py, web3.js, testnet, truffle, brownie, Hyperledger EVM, Remix, openzeppelin
+ERC-20, ERC-721, ERC-1155
+
+Web Frameworks: Flask
+
+Numerics: Numpy, Scipy, Matplotlib, Pandas
+
+Physics/Mathematics: Linear Algebra, Abstract Algebra, Multivatiate Calculus, Tensors,
+Differential geometry, Nonlinear Systems of Partial Differential Equations, General Relativity & Gravitation,
+Cosmology, Galactic Dynamics, Dark Matter, Particle Physics
+
+Ph.D. Theoretical Physics 2021: Duke University
+    Dissertation: Scalar Field Wave Dark Matter in the Context of Galaxies
+
 
 
 - 📫 How to reach me ...
