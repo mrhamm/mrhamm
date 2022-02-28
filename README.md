@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @mrhamm,
-I have studied Theoretical Cosmology, Differential Geometry, and Dark Matter Physics for my Ph.D. 
+
+I am a physics Ph.D. that went rogue to study blockchain technology and smart contracts.  I have 
+worked on a variety of blockchains, including Ethereum, Solana, and Hyperledger.  I study and develop
+decentralized applications, ranging from DeFi projects to NFTs.  Courtesy to my research background, I have a
+penchant for collecting and analyzing on-chain data of all types.  
+
+Prior to my blockchain career, I studied Theoretical Cosmology, Differential Geometry, and Dark Matter Physics for my Ph.D. 
 (See my arXiv profile at: https://arxiv.org/search/?query=benjamin+hamm&searchtype=author&source=header) 
 My primary experience in coding has been in numerical and computational methods with a specific focus on 
 systems of non-linear differential equations and how they can be used to model the physics of Dark Matter in galaxies.
